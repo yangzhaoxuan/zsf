@@ -1,0 +1,36 @@
+
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="148.952415%" y1="-56.9424716%" x2="16.8789629%" y2="86.9126472%" id="linearGradient-1">
+            <stop stop-color="#ACFFC3" offset="0%"></stop>
+            <stop stop-color="#4FD698" offset="71.0736853%"></stop>
+            <stop stop-color="#29C687" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="43.8943614%" x2="100%" y2="43.8943624%" id="linearGradient-2">
+            <stop stop-color="#ACFFC3" offset="0%"></stop>
+            <stop stop-color="#29C687" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="93.0967134%" x2="0%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#ACFFC3" offset="0%"></stop>
+            <stop stop-color="#29C687" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-景点" transform="translate(-60.000000, -1012.000000)">
+            <g id="全部国家&amp;我的收藏" transform="translate(30.000000, 974.000000)">
+                <g id="大">
+                    <g id="Group-4" transform="translate(27.000000, 35.000000)">
+                        <g id="Group-5" transform="translate(3.000000, 3.000000)">
+                            <circle id="Oval" fill="url(#linearGradient-1)" cx="22" cy="22" r="22"></circle>
+                            <ellipse id="Oval-15" fill="url(#linearGradient-2)" cx="22" cy="22" rx="9.24637681" ry="22"></ellipse>
+                            <ellipse id="Oval-15" fill="url(#linearGradient-2)" transform="translate(22.000000, 22.000000) rotate(-270.000000) translate(-22.000000, -22.000000) " cx="22" cy="22" rx="9.24637681" ry="22"></ellipse>
+                            <path d="M13.4736765,30.5263235 C13.0099347,27.9041883 12.7536232,25.0233126 12.7536232,22 C12.7536232,18.9766874 13.0099347,16.0958117 13.4736765,13.4736765 C16.0958117,13.0099347 18.9766874,12.7536232 22,12.7536232 C25.0233126,12.7536232 27.9041883,13.0099347 30.5263235,13.4736765 C30.9900653,16.0958117 31.2463768,18.9766874 31.2463768,22 C31.2463768,25.0233126 30.9900653,27.9041883 30.5263235,30.5263235 C27.9041883,30.9900653 25.0233126,31.2463768 22,31.2463768 C18.9766874,31.2463768 16.0958117,30.9900653 13.4736765,30.5263235 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
